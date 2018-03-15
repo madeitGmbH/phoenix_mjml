@@ -1,0 +1,9 @@
+{
+  "name": "phoenix_mjml",
+  "version": "1.0.0",
+  "description": "MJML rendered",
+  "dependencies": {
+    "mjml": "^4.0.0"
+  },
+  "devDependencies": {}
+}

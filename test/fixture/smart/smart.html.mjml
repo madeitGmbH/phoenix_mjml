@@ -1,0 +1,1 @@
+<mjml><mj-body><mj-text><%= @test %></mj-text></mj-body></mjml>
